@@ -120,7 +120,7 @@ week11_files/week11_files/test_load_scores.py::test_점수_경계값[101-False] 
   커밋 메시지에 넣은 Assisted-by: 줄과 내용이 맞아야 합니다.
 -->
 
-- 만든 사람 : 김은호
+- 만든 사람 : 김은호 (2026100705)
 - AI를 쓴 곳 : `load_scores.py` 로직·검증 기준 정리, `test_load_scores.py` 테스트 케이스 작성, `README.md` 초안 구성
 - 내가 직접 판단한 것 : 경계값과 예외 처리 기준 확인, `test_load_scores.py` 테스트 보완, 저장소 파일 위치와 `docs` 커밋 정리
 
@@ -129,4 +129,3 @@ week11_files/week11_files/test_load_scores.py::test_점수_경계값[101-False] 
 <!-- 저장소를 만들 때 고른 라이선스를 적으세요. 없으면 아무도 이 코드를 쓸 수 없습니다. -->
 
 MIT License (LICENSE 파일 참고)
-
