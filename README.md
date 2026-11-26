@@ -129,3 +129,4 @@ week11_files/week11_files/test_load_scores.py::test_점수_경계값[101-False] 
 <!-- 저장소를 만들 때 고른 라이선스를 적으세요. 없으면 아무도 이 코드를 쓸 수 없습니다. -->
 
 MIT License (LICENSE 파일 참고)
+
